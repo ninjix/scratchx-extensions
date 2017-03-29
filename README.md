@@ -2,4 +2,4 @@
 
 ## Summary
 
-This is a simple site for hosting ScratchX extentions.
+This is a simple site for hosting ScratchX extensions.
